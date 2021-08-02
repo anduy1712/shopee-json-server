@@ -6,8 +6,19 @@
       "price": 109.95,
       "quantites": 20,
       "description": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada...",
-      "category": "Burberry",
-      "image": "http://watch.somee.com/Content/images/11_20240be1-0251-4292-952e-bc37c2b4f19a_300x.png"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img2/2018/1_18/wcapkP.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/nZectg.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/lOCzWX.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/daMqfH.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/Ovcc4G.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/nUAJnd.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/29VW5k.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/YMokaY.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/XfHeVb.jpg",
+        "https://media3.scdn.vn/img2/2018/1_18/GliIHJ.jpg"
+      ]
     },
     {
       "id": 2,
@@ -15,8 +26,11 @@
       "price": 22.3,
       "quantites": 20,
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      "category": "Burberry",
-      "image": "http://watch.somee.com/Content/images/14_0167a733-4799-4054-a885-394e08806c84_300x.png"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img2/2017/4_13/gO5MKE.jpg",
+        "https://media3.scdn.vn/img2/2017/4_13/a5PEvv.jpg"
+      ]
     },
     {
       "id": 3,
@@ -25,7 +39,15 @@
       "quantites": 20,
       "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
       "category": "Burberry",
-      "image": "http://watch.somee.com/Content/images/15.jpg"
+      "images": [
+        "https://media3.scdn.vn/img4/2021/06_05/tmIhjAT0SrZOq9VA7rRE.jpg",
+        "https://media3.scdn.vn/img4/2020/12_10/4tQ6oC6SAwu7bftm0bhf.jpg",
+        "https://media3.scdn.vn/img4/2020/12_10/q2VtiPn3ailatD7ITIzI.jpg",
+        "https://media3.scdn.vn/img4/2020/12_10/CpK7f8d8ishKoeftGqJv.jpg",
+        "https://media3.scdn.vn/img4/2020/12_10/YmrifeaFvW1L1zlwmWoI.jpg",
+        "https://media3.scdn.vn/img4/2021/03_17/V848N1EmztiUnxhCGVrS.jpg",
+        "https://media3.scdn.vn/img4/2021/03_17/x27vMEWOSOWug8WB8rLL.jpg"
+      ]
     },
     {
       "id": 4,
@@ -33,8 +55,15 @@
       "price": 15.99,
       "quantites": 20,
       "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "category": "Burberry",
-      "image": "http://watch.somee.com/Content/images/15.jpg"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img4/2020/06_05/EsW077ZD7b8r13jO2g7r.jpg",
+        "https://media3.scdn.vn/img4/2020/06_05/vDRImJkb8UW50aVS1CxQ.jpg",
+        "https://media3.scdn.vn/img4/2020/06_05/YapM2oMqwxc1NKcwlUKH.jpg",
+        "https://media3.scdn.vn/img4/2020/06_05/8GHTochnuq1mlD3KkVGs.jpg",
+        "https://media3.scdn.vn/img4/2020/06_05/BwOC6HxCK0zQf0ejvt5V.jpg",
+        "https://media3.scdn.vn/img4/2020/06_05/zSkLkmns1rGbpZDyCcRU.jpg"
+      ]
     },
     {
       "id": 5,
@@ -42,8 +71,14 @@
       "price": 695,
       "quantites": 20,
       "description": "Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada...",
-      "category": "Cosmopolis",
-      "image": "http://watch.somee.com/Content/images/19.jpg"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img3/2019/7_26/63sY7E.jpg",
+        "https://media3.scdn.vn/img3/2019/7_26/e0bJHD.jpg",
+        "https://media3.scdn.vn/img3/2019/7_26/UOYI8G.jpg",
+        "https://media3.scdn.vn/img3/2019/7_26/KFBaz5.jpg",
+        "https://media3.scdn.vn/img3/2019/7_26/QfL2pn.jpg"
+      ]
     },
     {
       "id": 6,
@@ -51,8 +86,10 @@
       "price": 168,
       "quantites": 20,
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      "category": "Cosmopolis",
-      "image": "http://watch.somee.com/Content/images/10_6984232b-c8cf-4a46-b756-2172c21eebcc_300x.jpg"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img4/2021/01_31/doBDHCXXWZWADYx2OPIv.jpg"
+      ]
     },
     {
       "id": 7,
@@ -60,8 +97,13 @@
       "price": 9.99,
       "quantites": 20,
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-      "category": "Cosmopolis",
-      "image": "http://watch.somee.com/Content/images/15.jpg"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img4/2021/01_28/0vEcajOd2OqWWAXu3hor.jpg",
+        "https://media3.scdn.vn/img4/2021/01_28/ja6GBAIkZe8G3uBum2lC.jpg",
+        "https://media3.scdn.vn/img4/2021/01_28/C7n1CsKqazm2YIHVIUCx.jpg",
+        "https://media3.scdn.vn/img4/2021/01_28/mitJKpfnUpkKa0oUqHkx.jpg"
+      ]
     },
     {
       "id": 8,
@@ -69,8 +111,16 @@
       "price": 10.99,
       "quantites": 20,
       "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-      "category": "Cosmopolis",
-      "image": "http://watch.somee.com/Content/images/19.jpg"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img4/2020/12_13/cYJ2EjLnx5tBG2MXCRUH.jpg",
+        "https://media3.scdn.vn/img4/2020/10_21/53KfNMvfK06WyyEopV8k.jpg",
+        "https://media3.scdn.vn/img4/2020/10_21/VWc0lVe8n0HNZgv3m14F.jpg",
+        "https://media3.scdn.vn/img4/2020/12_13/h0KQxfUKkAcAX4QiqIE4.jpg",
+        "https://media3.scdn.vn/img4/2020/12_13/cWsphllb51PoOv2r8mqY.jpg",
+        "https://media3.scdn.vn/img4/2020/12_10/YmrifeaFvW1L1zlwmWoI.jpg",
+        "https://media3.scdn.vn/img4/2020/12_10/CpK7f8d8ishKoeftGqJv.jpg"
+      ]
     },
     {
       "id": 9,
@@ -78,8 +128,11 @@
       "price": 64,
       "quantites": 20,
       "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-      "category": "Milancelos",
-      "image": "http://watch.somee.com/Content/images/14_0167a733-4799-4054-a885-394e08806c84_300x.png"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img2/2018/11_5/tpv82Q.jpg",
+        "https://media3.scdn.vn/img2/2018/11_5/CyPhd5.jpg"
+      ]
     },
     {
       "id": 10,
@@ -87,8 +140,14 @@
       "price": 109,
       "quantites": 20,
       "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-      "category": "Milancelos",
-      "image": "http://watch.somee.com/Content/images/14_0167a733-4799-4054-a885-394e08806c84_300x.png"
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "images": [
+        "https://media3.scdn.vn/img4/2020/07_06/yg0VS40CP1UIpREXrRCj.png",
+        "https://media3.scdn.vn/img4/2020/07_06/noooPbLd67VTErC7PCWt.png",
+        "https://media3.scdn.vn/img4/2020/07_06/DcQEBysSozIYvDZgIFwa.png",
+        "https://media3.scdn.vn/img4/2020/07_06/oBlFhwfmcsCYuiIqcjnW.png",
+        "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png"
+      ]
     }
   ],
   "users": [
@@ -160,7 +219,7 @@
       "id": 5
     }
   ],
-  "cart": [
+  "carts": [
     {
       "id": 1,
       "userId": 1,
@@ -218,11 +277,48 @@
       "__v": 0
     }
   ],
-  "comments": [
+  "categories": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "name": "Thời trang",
+      "searchTerm": "ao so mi nu",
+      "createdAt": 1623512826709,
+      "updatedAt": 1623512826709
+    },
+    {
+      "id": "b8ee5338-e277-4ce0-987f-96c18395a1d5",
+      "name": "Khẩu trang",
+      "searchTerm": "khau trang",
+      "createdAt": 1623512826709,
+      "updatedAt": 1623512826709
+    },
+    {
+      "id": "84a03041-13a8-42cc-8348-a150b40c0902",
+      "name": "Làm đẹp",
+      "searchTerm": "lam dep",
+      "createdAt": 1623512826709,
+      "updatedAt": 1623512826709
+    },
+    {
+      "id": "488d3d5b-8433-4136-bedb-6530c5c8dfbe",
+      "name": "Laptop",
+      "searchTerm": "macbook",
+      "createdAt": 1623512826709,
+      "updatedAt": 1623512826709
+    },
+    {
+      "id": "8e077607-75cf-40bc-bdad-8f7e00e4732d",
+      "name": "Ổ cứng",
+      "searchTerm": "o cung ssd",
+      "createdAt": 1623512826709,
+      "updatedAt": 1623512826709
+    },
+    {
+      "id": "51214152-3dee-407b-b19f-35f53fed1746",
+      "name": "Điện thoại",
+      "searchTerm": "iphone",
+      "createdAt": 1623512826709,
+      "updatedAt": 1623512826709
     }
   ],
   "profile": {
