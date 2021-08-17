@@ -314,9 +314,7 @@
       "id": 5
     }
   ],
-  "carts": [
-    
-  ],
+  "carts": [],
   "categories": [
     {
       "id": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
@@ -363,5 +361,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "desc": []
 }
