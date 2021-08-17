@@ -314,7 +314,20 @@
       "id": 5
     }
   ],
-  "carts": [],
+  "carts": [{
+    "id": "hlrbe",
+  "userId": 1,
+  "date": 1629210529951,
+  "products": [
+    {
+      "productId": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "amount": 1
+    }
+  ],
+  "createdAt": 1629210530375
+  }],
   "categories": [
     {
       "id": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
