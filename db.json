@@ -159,6 +159,91 @@
         "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png"
       ]
     }
+    ,
+    {
+      "id": 11,
+      "title": "Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "quantites": 20,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "createdAt": 1623512836863,
+      "images": [
+        "https://media3.scdn.vn/img4/2020/07_06/yg0VS40CP1UIpREXrRCj.png",
+        "https://media3.scdn.vn/img4/2020/07_06/noooPbLd67VTErC7PCWt.png",
+        "https://media3.scdn.vn/img4/2020/07_06/DcQEBysSozIYvDZgIFwa.png",
+        "https://media3.scdn.vn/img4/2020/07_06/oBlFhwfmcsCYuiIqcjnW.png",
+        "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png"
+      ]
+    }
+    ,
+    {
+      "id": 12,
+      "title": "SATA III 6 Gb/s",
+      "price": 122,
+      "quantites": 80,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "createdAt": 1623512836863,
+      "images": [
+        "https://media3.scdn.vn/img4/2020/07_06/noooPbLd67VTErC7PCWt.png",
+        "https://media3.scdn.vn/img4/2020/07_06/yg0VS40CP1UIpREXrRCj.png",
+        "https://media3.scdn.vn/img4/2020/07_06/DcQEBysSozIYvDZgIFwa.png",
+        "https://media3.scdn.vn/img4/2020/07_06/oBlFhwfmcsCYuiIqcjnW.png",
+        "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Easy upgrade for faster Internal SSD - SATA III 6 Gb/s",
+      "price": 90,
+      "quantites": 10,
+      "description": "application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "createdAt": 1623512836863,
+      "images": [
+        "https://media3.scdn.vn/img4/2020/07_06/oBlFhwfmcsCYuiIqcjnW.png",
+        "https://media3.scdn.vn/img4/2020/07_06/yg0VS40CP1UIpREXrRCj.png",
+        "https://media3.scdn.vn/img4/2020/07_06/noooPbLd67VTErC7PCWt.png",
+        "https://media3.scdn.vn/img4/2020/07_06/DcQEBysSozIYvDZgIFwa.png",
+        "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png"
+      ]
+    }
+    ,
+    {
+      "id": 14,
+      "title": "Plated Stainless Steel Double",
+      "price": 89,
+      "quantites": 72,
+      "description": "(As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "createdAt": 1623512836863,
+      "images": [
+        "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png",
+        "https://media3.scdn.vn/img4/2020/07_06/oBlFhwfmcsCYuiIqcjnW.png",
+        "https://media3.scdn.vn/img4/2020/07_06/yg0VS40CP1UIpREXrRCj.png",
+        "https://media3.scdn.vn/img4/2020/07_06/noooPbLd67VTErC7PCWt.png",
+        "https://media3.scdn.vn/img4/2020/07_06/DcQEBysSozIYvDZgIFwa.png"
+        
+      ]
+    }
+    ,
+    {
+      "id": 15,
+      "title": "Stainless Plated Stainless Steel Double",
+      "price": 209,
+      "quantites": 72,
+      "description": "(As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "categoryId": "a1f1d2a2-ed6b-48ae-a31e-018efe7b6180",
+      "createdAt": 1623512836863,
+      "images": [
+        "https://media3.scdn.vn/img4/2020/07_06/noooPbLd67VTErC7PCWt.png",
+        "https://media3.scdn.vn/img4/2020/07_06/oBlFhwfmcsCYuiIqcjnW.png",
+        "https://media3.scdn.vn/img4/2020/07_06/yg0VS40CP1UIpREXrRCj.png",
+        "https://media3.scdn.vn/img4/2020/07_06/DcQEBysSozIYvDZgIFwa.png",
+        "https://media3.scdn.vn/img4/2020/07_06/Awn8MWDy4ZvuoT2o6KiI.png"
+      ]
+    }
   ],
   "users": [
     {
