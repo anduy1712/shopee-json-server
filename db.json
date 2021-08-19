@@ -252,6 +252,7 @@
       "email": "anduy1712@gmail.com",
       "username": "anduy1712",
       "password": "123456",
+       "photoImage": "https://i.stack.imgur.com/l60Hf.png",
       "author": "admin",
       "name": {
         "firstname": "Phan",
@@ -266,6 +267,7 @@
       "email": "lebala@gmail.com",
       "username": "labla",
       "password": "m38rmF$",
+       "photoImage": "https://i.stack.imgur.com/l60Hf.png",
       "author": "user",
       "name": {
         "firstname": "david",
@@ -278,6 +280,7 @@
       "email": "testvalite@gmail.com",
       "username": "johnd",
       "password": "123456",
+       "photoImage": "https://i.stack.imgur.com/l60Hf.png",
       "author": 2,
       "name": {
         "firstname": "Duy An",
@@ -291,6 +294,7 @@
       "email": "admin@gmail.com",
       "username": "johnd",
       "password": "dsaddasda",
+       "photoImage": "https://i.stack.imgur.com/l60Hf.png",
       "author": 2,
       "name": {
         "firstname": "dasda",
@@ -304,6 +308,7 @@
       "email": "sshavy109@gmail.com",
       "username": "johnd",
       "password": "123456",
+       "photoImage": "https://i.stack.imgur.com/l60Hf.png",
       "author": 2,
       "name": {
         "firstname": "Duy An",
